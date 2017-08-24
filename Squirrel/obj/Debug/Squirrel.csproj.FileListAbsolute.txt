@@ -1,0 +1,9 @@
+C:\Users\hosme\Documents\Squirrel\Squirrel\bin\Debug\log.txt
+C:\Users\hosme\Documents\Squirrel\Squirrel\bin\Debug\Squirrel.exe.config
+C:\Users\hosme\Documents\Squirrel\Squirrel\bin\Debug\Squirrel.exe
+C:\Users\hosme\Documents\Squirrel\Squirrel\bin\Debug\Squirrel.pdb
+C:\Users\hosme\Documents\Squirrel\Squirrel\bin\Debug\Newtonsoft.Json.dll
+C:\Users\hosme\Documents\Squirrel\Squirrel\bin\Debug\Newtonsoft.Json.xml
+C:\Users\hosme\Documents\Squirrel\Squirrel\obj\Debug\Squirrel.csprojResolveAssemblyReference.cache
+C:\Users\hosme\Documents\Squirrel\Squirrel\obj\Debug\Squirrel.exe
+C:\Users\hosme\Documents\Squirrel\Squirrel\obj\Debug\Squirrel.pdb
